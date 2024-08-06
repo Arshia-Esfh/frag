@@ -63,5 +63,14 @@
 <a href="https://sabzlearn.ir">
 <img src="https://img.shields.io/badge/Website-www.sabzlearn.ir-red?style=flat-square&&logo=simple-icons">
 </a>
+
+
+<a href="https://instagram.com/front_end">
+<img src="https://img.shields.io/badge/Instagram-@arshia_front-red?style=flat&logo=instagram">
+</a>
+
+<a href="https://t.me/@arshia10231">
+<img src="https://img.shields.io/badge/Telegram-@arshia10231-blue?style=flat&logo=telegram">
+</a>
   
 </p>
