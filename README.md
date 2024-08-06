@@ -55,7 +55,4 @@
 <br> 
 
 
-<a href="https://github.com/Arshia-Esfh">
-<img src="https://github-readme-stats.vercel.app/api?username=Arshia-Esfh&show_icons=true&theme=radical">
-</a>
 
